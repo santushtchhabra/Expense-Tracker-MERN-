@@ -1,4 +1,4 @@
-import { useState } from react;
+import { useState } from "react";
 import api from './api';
 
 const labelCls = 'mb-1.5 block text-sm font-medium text-slate-700';
